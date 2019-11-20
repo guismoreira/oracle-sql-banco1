@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="trabalho-banco-datamodeler" id="B39AFD72-5039-E1F3-9E95-E1745465707D" version="3.5">
+<createdBy>TANISI</createdBy>
+<createdTime>2019-09-04 21:08:59 UTC</createdTime>
+<ownerDesignName>adm_condominial</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B39AFD72-5039-E1F3-9E95-E1745465707D</designId>
+</OSDM_Design>
